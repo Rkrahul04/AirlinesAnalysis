@@ -15,7 +15,7 @@ queries.
 ## Data Description 
 In this use case there are 3 data sets. Final_airlines,  routes.dat,  airports_mod.dat  
 ************************************************************  
-*Air Ports data set i.e airports_mod.dat* 
+### _*Air Ports data set i.e airports_mod.dat*_
 It contains the following fields 
 
 Airport ID  Unique OpenFlights identifier for this airport.
@@ -49,7 +49,7 @@ Zealand), N (None) or U (Unknown). See also: Help: Time
 
 Tz database time Timezone in "tz" (Olson) format, eg. "America/Los_Angeles". zone  
 
-*Air Lines Data set:*
+### _*Air Lines Data set:*_
 It contains the following fields: 
 
 Airline  Unique OpenFlights identifier for this airline. ID 
@@ -71,7 +71,7 @@ reliable: in particular, major airlines that stopped flying long ago, but have n
 reassigned (eg. Ansett/AN), will incorrectly show as "Y"
 
 
-_*Routes Data set i.e routes.dat*_
+### _*Routes Data set i.e routes.dat*_
 
 It contains the following fields 
 
