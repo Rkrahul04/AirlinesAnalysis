@@ -94,3 +94,16 @@ Stops  Number of stops on this flight ("0" for direct)
 
 Equipment  3-letter codes for plane type(s) generally used on this flight, separated by spaces
 
+### CONCLUSION 
+This paper addresses the related work of distributed data bases
+that were found in literature, challenges ahead with big data,
+and a case study on airline data analysis using Hive. Author
+attempted to explore detailed analysis on airline data sets such
+as listing airports operating in the India, list of airlines having
+zero stops, list of airlines operating with code share which
+country has highest airports and list of active airlines in united
+state. Here author focused on the processing the big data sets
+using hive component of hadoop ecosystem in distributed
+environment. This work will benefit the developers and
+business analysts in accessing and processing their user
+queries. 
